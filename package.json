@@ -1,0 +1,22 @@
+{
+    "name": "turkey_weather_clock_api",
+    "version": "1.0.0",
+    "description": "A simple API which gets weather information of the cities from mgm.gov.tr and the clock information from time.is",
+    "main": "service.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ztancankiri/turkey_weather_clock_api.git"
+    },
+    "author": "Zafer Tan Cankiri",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/ztancankiri/turkey_weather_clock_api/issues"
+    },
+    "homepage": "https://github.com/ztancankiri/turkey_weather_clock_api#readme",
+    "dependencies": {
+        "cheerio": "^1.0.0-rc.2"
+    }
+}
